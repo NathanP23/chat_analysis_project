@@ -1,0 +1,20 @@
+
+# Ignore chat files and output
+data/chat_file.txt
+data/output/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+
