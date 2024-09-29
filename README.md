@@ -9,6 +9,7 @@ pip install -r requirements.txt
 python main.py data/chat_file.txt
 ```
 ## Structure
+```bash
 chat_analysis_project/
 │
 ├── data/                              # Folder for storing input chat files and processed output
@@ -37,3 +38,4 @@ chat_analysis_project/
 ├── requirements.txt                   # Python packages required for the project
 ├── README.md                          # Documentation for project overview and instructions
 └── LICENSE                            # License file (optional)
+```
